@@ -21,6 +21,7 @@ I'm a passionate Full Stack Web Developer with a flair for problem-solving and a
 ## 🌐 Connect with Me
 
 - LinkedIn: Piyush Terkar(https://www.linkedin.com/in/piyushterkar/)
+- Find my Blogs: Sudo Sages(https://sudosages.blogspot.com/)
 
 ## 📬 Let's Collaborate!
 
