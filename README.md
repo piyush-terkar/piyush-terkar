@@ -1,28 +1,53 @@
-# Hi there, I'm Piyush Terkar! 👋
+# Hey there, I'm Piyush Terkar 👋
 
-I'm a passionate Full Stack Web Developer with a flair for problem-solving and a love for crafting clean, efficient code. Welcome to my GitHub profile!
+🎯 Backend Engineer (Spring Boot / Node.js) | Microservices Enthusiast | Clean Code Advocate
 
-## 📊 My Stats
+Welcome to my GitHub! I build scalable backend systems, design event-driven architectures, and occasionally dabble in front-end magic when the caffeine hits right.
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-terkar&theme=dark)
+---
 
-## 🚀 Quick Overview
+## 🚀 Tech Snapshot
 
-- 🌱 I’m constantly learning and exploring new technologies to expand my skill set.
-- 💡 I'm enthusiastic about contributing to open-source projects and collaborating on innovative ideas.
+**🧠 Languages:**  
+Java, JavaScript (ES6+), Python
 
-## 🛠️ Tech Stack
+**🛠 Frameworks & Libraries:**  
+Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Node.js, Express.js, React.js
 
-- **Front-end:** HTML5, CSS3, JavaScript, React.js
-- **Back-end:** Node.js, Express.js, Java Spring & Spring Boot
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Visual Studio Code, Postman, Docker, Rpi.
+**🗄 Databases:**  
+MongoDB, MySQL, PostgreSQL, Redis
 
-## 🌐 Connect with Me
+**☁ Cloud & DevOps:**  
+Google Cloud Platform (GCP), Docker, CI/CD (GitHub Actions, Jenkins), Nginx
 
-- LinkedIn: Piyush Terkar(https://www.linkedin.com/in/piyushterkar/)
-- Find my Blogs: Sudo Sages(https://sudosages.blogspot.com/)
+**📡 Messaging & Streaming:**  
+RabbitMQ, Apache Kafka
 
-## 📬 Let's Collaborate!
+**🔧 Tools:**  
+Git, Postman, IntelliJ IDEA, VSCode, Linux, Bash
 
-I'm always excited to collaborate on interesting projects, contribute to open source, or engage in tech discussions. Feel free to reach out via [terkar.piyush3@gmail.com](mailto:terkar.piyush3@gmail.com) or connect with me on LinkedIn.
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-terkar&layout=compact&theme=dark)
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush-terkar&show_icons=true&theme=dark&hide=prs)
+
+---
+
+## 💬 About Me
+
+- 🧩 I love solving complex problems and simplifying them into maintainable, scalable systems.
+- 🌱 Always learning — currently exploring Kafka streams, Spring Reactive (WebFlux), and system design patterns.
+- ✍️ Occasional blogger at [Sudo Sages](https://sudosages.blogspot.com/)
+
+---
+
+## 📬 Let's Connect
+
+📫 Email: [terkar.piyush3@gmail.com](mailto:terkar.piyush3@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/piyushterkar](https://www.linkedin.com/in/piyushterkar)
+
+---
+
+> *“Make it work. Make it right. Make it fast.”* – Kent Beck
